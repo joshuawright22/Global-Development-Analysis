@@ -73,9 +73,7 @@ This project utilizes various **Python libraries** and tools for data analysis, 
 ---
 
 ## **Conclusion**
-This study highlights the **complex interdependencies** between population, economic growth, and education. The findings can **inform policies** on sustainable growth, resource allocation, and social development.
-
-For any questions or discussions, feel free to **open an issue** or contribute to the project! 
+This study highlights the **complex interdependencies** between population, economic growth, and education. The findings can **inform policies** on sustainable growth, resource allocation, and social development. 
 
 ---
 
