@@ -2,7 +2,7 @@
 ### **Exploring the Interplay Between Population, Economy, and Education**
 
 ## **Overview**
-This project investigates the relationships between geodemographic, economic, and educational indicators across countries using **2023 data**. By analyzing key correlations, we aim to uncover **underlying factors influencing national development**, such as:
+This project investigates the relationships between geodemographic, economic, and educational indicators across countries using **2023 data** from Kaggle. By analyzing key correlations, we aim to uncover **underlying factors influencing national development**, such as:
 - The impact of **population size on economic output**
 - The **environmental costs** of economic growth
 - The role of **education in improving health outcomes**
