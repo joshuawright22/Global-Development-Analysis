@@ -1,4 +1,4 @@
-# **Global Development Data Analysis (2023)**
+# **Global Development Data Analysis**
 ### **Exploring the Interplay Between Population, Economy, and Education**
 
 ## **Overview**
