@@ -61,6 +61,17 @@ For a detailed breakdown, refer to the **final report**: [`Global Development An
 
 ---
 
+## **Data Analysis Tools**
+This project utilizes various **Python libraries** and tools for data analysis, visualization, and statistical insights:
+
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn) – Data manipulation, analysis, and visualization.
+- **Google Colab / Jupyter Notebook** – Interactive environment for running Python code.
+- **Data Cleaning & Preprocessing** – Handling missing values, standardizing data, and merging datasets.
+- **Statistical Analysis** – Correlation matrices and descriptive statistics for data interpretation.
+- **Data Visualization** – Heatmaps, scatter plots, and graphs to illustrate trends and relationships.
+
+---
+
 ## **Conclusion**
 This study highlights the **complex interdependencies** between population, economic growth, and education. The findings can **inform policies** on sustainable growth, resource allocation, and social development.
 
